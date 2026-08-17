@@ -53,7 +53,3 @@ python -m unittest discover -s tests
 * **Retries.** Retries transient HTTP errors with backoff.
 * **Testable design.** Uses an injectable request function for tests.
 
-## How AI was used
-I used AI as an assistant to help with initial ideas for the structure of the program, suggested ways to organise the code and helped me draft parts of the implementation and tests. I then reviewed, edited and ran the code myself and made changes where needed to make sure it worked correctly and matched the specification.
-
-Used it as a support tool for drafting, debugging, and improving the clarity of the code and README.
